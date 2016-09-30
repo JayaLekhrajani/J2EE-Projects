@@ -1,0 +1,13 @@
+<web-app>
+
+
+
+
+<welcome-file-list>
+<welcome-file>Test2.jsp</welcome-file>
+</welcome-file-list>
+
+
+
+
+</web-app>
